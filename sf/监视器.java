@@ -1,3 +1,5 @@
+package 逻辑分析;
+
 import java.util.Scanner;
 import java.util.*;
 import java.util.stream.Stream;
